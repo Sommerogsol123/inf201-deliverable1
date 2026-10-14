@@ -219,3 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 frost_client_id.txt
+anaconda_projects/
+.virtual_documents/
